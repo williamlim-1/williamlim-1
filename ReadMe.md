@@ -1,8 +1,7 @@
 # 💫 About Me:
 🎓 Student @ The University of Oklahoma  
 
-💻 Major: Management Information Systems  
-📊 Major: Economics  
+💻 Major: Management Information Systems and Economics
 📜 Undergraduate Certificate: Business Intelligence & Analytics  
 
 ⚡ Areas of Interest  
