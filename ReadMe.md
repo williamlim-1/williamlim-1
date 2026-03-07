@@ -1,5 +1,16 @@
 # 💫 About Me:
-Student @ The University of Oklahoma<br><br>Management Information Systems, Economics, Business Intelligence & Analytics<br><br>
+🎓 Student @ The University of Oklahoma  
+
+💻 Major: Management Information Systems  
+📊 Major: Economics  
+📜 Undergraduate Certificate: Business Intelligence & Analytics  
+
+⚡ Areas of Interest  
+📊 Business Intelligence  
+📈 Data Analytics  
+🏢 Enterprise Resource Planning (ERP)  
+⚙️ Automation  
+🖥 Application Development
 
 
 ## 🌐 Socials:
@@ -12,4 +23,3 @@ Student @ The University of Oklahoma<br><br>Management Information Systems, Econ
 ![](https://nirzak-streak-stats.vercel.app/?user=williamlim-1&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=williamlim-1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
